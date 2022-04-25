@@ -1,0 +1,12 @@
+.header{
+  /*  background-color: rgb(156, 156, 179);*/
+    height:10pt;
+    background-image: image("h.png");
+}
+.heading1{
+text-align: center;
+color: rgb(0, 0, 5);
+}
+.para1{
+    font-size: 15px;
+}
